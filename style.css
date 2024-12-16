@@ -1,3 +1,28 @@
 body {
 
+  background-color: lightblue;
+}
+
+h4{
+  color: white;
+  font-size:70px;
+  font-variant:small-caps;
+  text-decoration-line:overline underline;
+  letter-spacing:-1px;
+  word-spacing:5px;
+  
+}
+h4:hover {
+  text-shadow:2px 2px 5px black;
+  text-decoration: overline underline white wavy 10px;
+}
+
+img{
+  width:40%;
+  border-radius:30%
+  
+}
+img:hover{
+  width:50%;
+
 }
