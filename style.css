@@ -33,7 +33,7 @@ img:hover{
 
 .topnav a {
   float: left;
-  color: darkblue;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -48,6 +48,6 @@ img:hover{
 
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #00008B;
   color: white;
 }
