@@ -48,6 +48,6 @@ img:hover{
 
 
 .topnav a.active {
-  background-color: #00008B;
+  background-color: darkblue;
   color: white;
 }
